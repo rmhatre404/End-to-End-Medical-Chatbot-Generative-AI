@@ -6,27 +6,27 @@
 
 Clone the repository
 
-'''bash
+```bash
 Project repo: https://github.com/rmhatre404/End-to-End-Medical-Chatbot-Generative-AI.git
-'''
+```
 
 ### STEP 01- Create a conda environment after the repository
 
-'''bash
+```bash
 conda create -n medibot python=3.10 -y
-'''
+```
 
-'''bash
+```bash
 conda activate medibot
-'''
+```
 OR 
 
-'''bash
+```bash
 source activate medibot
-'''
+```
 
 ### STEP 02- Install the requirements
 
-'''bash 
+```bash 
 pip install -r requirements.txt
-'''
+```
